@@ -3,7 +3,7 @@
 An end-to-end sales analytics project — from raw data to an interactive dashboard.
 
 ## 🛠️ Tools Used
-- **SQL** — data extraction & querying
+- **SQL** — data extraction & querying ([view queries](superstore_analysis.sql))
 - **Data Cleaning** — handled nulls, duplicates & formatting issues
 - **Power BI** — interactive visualization
 
@@ -17,6 +17,8 @@ An end-to-end sales analytics project — from raw data to an interactive dashbo
 - **West region** leads with 31% of total sales
 - **Consumer segment** dominates at 50.77%
 - **Technology** is the top-performing category
+
+*SQL analysis also identified and flagged duplicate order line items during the cleaning process — see [`superstore_analysis.sql`](superstore_analysis.sql).*
 
 ## 📸 Dashboard Preview
 
